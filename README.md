@@ -1,4 +1,4 @@
-[![Hasnat GitHub Banner](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)]
+!(https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 <h1 align="center">Hi 👋, I'm Abul Hasnat</h1>
 <h3 align="center">A passionate MERN developer</h3>
