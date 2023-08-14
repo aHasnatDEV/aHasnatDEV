@@ -1,7 +1,7 @@
+[![Hasnat GitHub Banner](https://www.shiksha.com/online-courses/articles/wp-content/uploads/sites/11/2021/12/Programming-vs-Web-Development.jpg)]
+
 <h1 align="center">Hi 👋, I'm Abul Hasnat</h1>
 <h3 align="center">A passionate MERN developer</h3>
-
-<img src="https://www.shiksha.com/online-courses/articles/wp-content/uploads/sites/11/2021/12/Programming-vs-Web-Development.jpg" alt="ahasnatdev" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
