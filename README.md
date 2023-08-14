@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abul Hasnat</h1>
 <h3 align="center">A passionate MERN developer</h3>
 
-<p align="left"> <img src="https://www.shiksha.com/online-courses/articles/wp-content/uploads/sites/11/2021/12/Programming-vs-Web-Development.jpg" alt="ahasnatdev" /> </p>
+<img src="https://www.shiksha.com/online-courses/articles/wp-content/uploads/sites/11/2021/12/Programming-vs-Web-Development.jpg" alt="ahasnatdev" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
